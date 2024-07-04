@@ -1,5 +1,5 @@
 # ARIES
-psychatric bot# Psychiatrist Bot
+# Psychiatrist Bot
 
 ## Overview
 
